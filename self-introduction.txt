@@ -3,3 +3,4 @@ mail: ninokata@gmail.com
 test
 test
 
+Fruits:Apple
